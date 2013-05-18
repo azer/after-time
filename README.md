@@ -9,7 +9,7 @@ after('5 minutes', function(){
   console.log('hello!')
 })
 
-after('3 hours, 15 minutes and 20 milliseconds', function(){
+after('3 Hours, 15 Minutes and 20 Milliseconds', function(){
   console.log('yo!')
 })
 
