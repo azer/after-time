@@ -5,6 +5,10 @@ Declarative setTimeout based on [english-time](http://github.com/azer/english-ti
 ```js
 after = require('after-time')
 
+after('150ms', function(){
+  console.log('yo!')
+})
+
 after('5 minutes', function(){
   console.log('hello!')
 })
