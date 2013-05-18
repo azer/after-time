@@ -1,0 +1,21 @@
+{
+  "name": "after-time",
+  "version": "0.0.0",
+  "description": "Declarative setTimeout",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "repository": {
+    "url": "git@github.com:azer/after-time.git",
+    "type": "git"
+  },
+  "author": "Azer Koçulu <azer@kodfabrik.com>",
+  "license": "BSD",
+  "dependencies": {
+    "english-time": "0.0.1"
+  }
+}
