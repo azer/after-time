@@ -16,6 +16,6 @@
   "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD",
   "dependencies": {
-    "english-time": "0.0.1"
+    "english-time": "0.x"
   }
 }
