@@ -1,6 +1,6 @@
 {
   "name": "after-time",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Declarative setTimeout",
   "main": "index.js",
   "scripts": {
