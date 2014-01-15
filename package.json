@@ -4,10 +4,10 @@
   "description": "Declarative setTimeout",
   "main": "index.js",
   "scripts": {
-    "test": "fox"
+    "test": "prova"
   },
   "devDependencies": {
-    "fox": "*"
+    "prova": "*"
   },
   "repository": {
     "url": "git@github.com:azer/after-time.git",
